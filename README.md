@@ -1,16 +1,15 @@
 # flutter_clean_architecture_tdd_weatherapp
 
-A new Flutter project.
+Get the weather from any region.
 
-## Getting Started
+## App structure
 
-This project is a starting point for a Flutter application.
+- Clean architecture
+- Bloc
+- TDD
+- Data from OpenWeather API
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="ss1.png" width="300" height="600">
+<img src="ss2.png" width="300" height="600">
+<img src="ss3.png" width="300" height="600">
+<img src="ss4.png" width="300" height="600">
